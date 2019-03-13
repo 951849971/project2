@@ -1,3 +1,7 @@
 hello everyone
 hi
+<<<<<<< HEAD
 分支啦啦
+=======
+分支啦啦
+>>>>>>> feature1
